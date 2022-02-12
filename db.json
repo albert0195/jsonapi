@@ -1,24 +1,29 @@
 {
-  "input": [
+  "inputContent": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Sie wünschen eine:",
+      "choose": "Neue Solaranalge mit Stromspeicher"
     },
     {
       "id": 2,
-      "body": "weiterer scheiss",
-      "postId": 2
+      "body": "Ihr Stromverbrauch beträgt ca.:",
+      "choose": "5000 kWh"
+    },
+    {
+      "id": 3,
+      "body": "Ihre Dachneigung beträgt ca.:",
+      "choose": "40 Grad"
+    },
+    {
+      "id": 4,
+      "body": "Der Ausführungszeitraum ist:",
+      "choose": "In 1 bis 6 Monaten"
+    },
+    {
+      "id": 5,
+      "body": "Das Alter des Daches ist:",
+      "choose": "Neu gebaut"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
