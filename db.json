@@ -7,22 +7,22 @@
     },
     {
       "id": 2,
-      "body": "Ihr Stromverbrauch beträgt ca.:",
+      "title": "Ihr Stromverbrauch beträgt ca.:",
       "choose": "5000 kWh"
     },
     {
       "id": 3,
-      "body": "Ihre Dachneigung beträgt ca.:",
+      "title": "Ihre Dachneigung beträgt ca.:",
       "choose": "40 Grad"
     },
     {
       "id": 4,
-      "body": "Der Ausführungszeitraum ist:",
+      "title": "Der Ausführungszeitraum ist:",
       "choose": "In 1 bis 6 Monaten"
     },
     {
       "id": 5,
-      "body": "Das Alter des Daches ist:",
+      "title": "Das Alter des Daches ist:",
       "choose": "Neu gebaut"
     }
   ]
